@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Prompt → JSON Enhancer",
+  "version": "1.0.0",
+  "description": "Convert raw AI prompts into structured JSON (popup).",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Prompt → JSON"
+  }
+}
